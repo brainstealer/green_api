@@ -1,0 +1,7 @@
+.mainPage_container {
+    background-color: #FCF5EB;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    min-width: 322px;
+}

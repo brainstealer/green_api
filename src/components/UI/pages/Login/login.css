@@ -1,0 +1,28 @@
+.app {
+    background-color: #FCF5EB;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.login_box {
+    display: flex;
+    flex-direction: column;
+
+    box-sizing: border-box;
+    padding: 10px;
+    row-gap: 5px;
+
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid teal;
+    border-radius: 10px;
+
+    background-color: #47A985;
+}
